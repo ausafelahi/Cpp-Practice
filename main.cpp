@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    cout<< "**Welcome to calculator program**\n";
+    /* cout<< "**Welcome to calculator program**\n";
     cout<< "Enter two numbers\n";
 
 float n1,n2;
@@ -27,5 +27,18 @@ float sum,sub,mul,div;
 
      system("pause");
 
-     return 0;
+     return 0; */
+
+     int red;
+     float redf;
+     char redc;
+
+     redc = 'a';
+     cout<<redc<<endl;
+
+     redf = 23.25896;
+     cout<<redf<<endl;
+     
+     red = 234578;
+     cout<<red<<endl;
 }
