@@ -3,7 +3,7 @@ using namespace std;
 
 class car
 {
-protected:
+public:
     string model;
     float speed;
     int price;
